@@ -10,3 +10,5 @@ Projecte educatiu nou
 4.  Demanar col·laboració
 5.  Redactar de nou
 6.  Posar-lo a prova
+
+Lorem ipsum dolorem
